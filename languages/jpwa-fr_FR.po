@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Core/Audit.php:37
+msgid "audit_description_"
+msgstr ""
+
+#: Core/Auditor.php:69
+msgid "Website is unreachable."
+msgstr "Website is unreachable."
+
+#: Core/Category.php:51
+msgid "category_title_"
+msgstr ""
+
+#: Core/Category.php:55
+msgid "category_subtitle_"
+msgstr ""
+
+#: Core/Category.php:59
+msgid "category_description_"
+msgstr ""
+
+#: Core/Category.php:63
+msgid "category_source_"
+msgstr ""
+
+#: Core/Settings.php:28
+msgid "Settings"
+msgstr "Réglages"
+
+#: Core/Settings.php:40
+msgid "SSL verify"
+msgstr "Vérification SSL"
+
+#: Core/Settings.php:46
+msgid "Concurrent requests"
+msgstr "Demandes simultanées"
+
+#: Core/Settings.php:52
+msgid "Request expiry time in seconds"
+msgstr "Délai d’expiration de la demande en secondes"
+
+#: Core/Settings.php:58
+msgid "MailChimp Region"
+msgstr "Région MailChimp"
+
+#: Core/Settings.php:63
+msgid "MailChimp User"
+msgstr "Utilisateur MailChimp"
+
+#: Core/Settings.php:68
+msgid "MailChimp List ID"
+msgstr "ID de liste MailChimp"
+
+#: Core/Settings.php:73
+msgid "PageSpeed API Key"
+msgstr "Clé API PageSpeed"
+
+#: Core/Settings.php:78
+msgid "URL Testing Tools API Key"
+msgstr "Clé API des outils de test d’URL"
+
+#: Core/Settings.php:83
+msgid "Email template"
+msgstr "Modèle d’e-mail"
+
+#: Core/Settings.php:88
+msgid "ID of the page that contains the inital state"
+msgstr "ID de la page qui contient l’état initial"
+
+#: Core/Settings.php:93
+msgid "ID of the page that contains the result state"
+msgstr "ID de la page qui contient l’état du résultat"
+
+#: Core/Settings.php:98
+msgid "ID of the page that contains the email success state"
+msgstr "ID de la page contenant l’état de réussite de l’e-mail"
+
+#: Core/Settings.php:103
+msgid "ID of the page that contains the email failure state"
+msgstr "ID de la page qui contient l’état d’échec de l’e-mail"
+
+#: Shortcode/Email.php:41
+msgid "Email"
+msgstr "Email"
+
+#: Shortcode/Email.php:44
+msgid "Send"
+msgstr "Envoyer"
+
+#: Shortcode/Email.php:49
+msgid "I consent to receive occasional emails"
+msgstr "J’accepte de recevoir des emails occasionnels"
+
+#: Shortcode/Form.php:49
+msgid "Enter a website address"
+msgstr "Entrez une adresse de site web"
+
+#: Shortcode/Form.php:50
+msgid "Your website address needs to look something like \"https://jonpontet.com\""
+msgstr "L’adresse de votre site web doit ressembler à “https://jonpontet.com”"
+
+#: Shortcode/Form.php:53
+msgid "Search"
+msgstr "Chercher"
+
+#: Shortcode/Form.php:56
+msgid "Loading"
+msgstr "Chargement"
+
+#: Shortcode/Recent.php:27 Shortcode/Result.php:27
+msgid "Great"
+msgstr "Génial"
+
+#: Shortcode/Recent.php:27 Shortcode/Result.php:27
+msgid "Good"
+msgstr "Bien"
+
+#: Shortcode/Recent.php:27 Shortcode/Result.php:27
+msgid "Poor"
+msgstr "Pas bon"
+
+#: WebsiteAuditPlugin.php:246 WebsiteAuditPlugin.php:251
+msgid "Website Audits"
+msgstr "Audits de Site Web"
+
+#: WebsiteAuditPlugin.php:247
+msgid "Website Audit"
+msgstr "Audit de Site Web"
+
+#: WebsiteAuditPlugin.php:288
+msgid "Last Modified"
+msgstr "Dernière Modification"
+
+#: WebsiteAuditPlugin.php:351
+msgid "We are already processing way too many requests. Please try again later."
+msgstr "Nous traitons déjà bien trop de demandes. Veuillez réessayer plus tard."
+
+#: WebsiteAuditPlugin.php:385
+msgid "We couldn't process your request. Please try again later."
+msgstr "Nous n’avons pas pu traiter votre demande. Veuillez réessayer plus tard."
+
+msgid "category_title_accessibility"
+msgstr "Accessibility"
+
+msgid "category_subtitle_accessibility"
+msgstr "Dans quelle mesure votre site web est-il accessible aux visiteurs handicapés?"
+
+msgid "category_description_accessibility"
+msgstr "Le score est une moyenne de <a href=“#”>32 audits d’accessibilité</a>."
+
+msgid "category_source_accessibility"
+msgstr "Le score d’accessibilité est grâce à <a href=“#”>Google PageSpeed ​​Insight</a>."
+
+msgid "category_title_conversion"
+msgstr "Conversion"
+
+msgid "category_subtitle_conversion"
+msgstr "Les visiteurs du site web peuvent-ils facilement entrer en contact?"
+
+msgid "category_description_conversion"
+msgstr "Ce score calcule la probabilité que les visiteurs du site web se convertissent en prospects."
+
+msgid "category_source_conversion"
+msgstr "Le score de conversion est calculé en fonction de mon propre algorithme personnalisé."
+
+msgid "category_title_mobile-friendly"
+msgstr "Adapté aux mobiles"
+
+msgid "category_subtitle_mobile-friendly"
+msgstr "Votre site web a-t-il tout pour une bonne expérience mobile?"
+
+msgid "category_description_mobile-friendly"
+msgstr "Ce résultat Oui ou Non est basé sur 6 problèmes d’utilisation mobile bien connus."
+
+msgid "category_source_mobile-friendly"
+msgstr "Le score adapté aux mobiles est grâce à <a href=“#”>Test Google Mobile-Friendly</a>."
+
+msgid "category_title_seo"
+msgstr "SEO"
+
+msgid "category_subtitle_seo"
+msgstr "Dans quelle mesure votre site web est-il optimisé pour les moteurs de recherche?"
+
+msgid "category_description_seo"
+msgstr "Ce score est basé sur les principales recommandations des experts de <a href=“#”>MOZ</a>."
+
+msgid "category_source_seo"
+msgstr "Le score SEO est calculé sur la base de mon propre algorithme personnalisé."
+
+msgid "category_title_social-media"
+msgstr "Réseau Social"
+
+msgid "category_subtitle_social-media"
+msgstr "Dans quelle mesure votre site web est-il prêt à être publicisé sur les réseaux sociaux?"
+
+msgid "category_description_social-media"
+msgstr "Ce score est basé sur la présence d’améliorations clés pour la popularité des médias sociaux."
+
+msgid "category_source_social-media"
+msgstr "Le score des réseaux sociaux est calculé sur la base de mon propre algorithme personnalisé."
+
+msgid "category_title_speed"
+msgstr "Vitesse"
+
+msgid "category_subtitle_speed"
+msgstr "À quelle vitesse votre site web se charge-t-il?"
+
+msgid "category_description_speed"
+msgstr "Ce score est une combinaison de <a href=“#”>6 scores métriques</a>, qui sont comparés aux sites les plus performants."
+
+msgid "category_source_speed"
+msgstr "Le score de vitesse est grâce à <a href=“#”> Google PageSpeed ​​Insights </a>."
+
+msgid "category_title_wordpress-security"
+msgstr "Sécurité WordPress"
+
+msgid "category_subtitle_wordpress-security"
+msgstr "Votre site WordPress est-il sécurisé?"
+
+msgid "category_description_wordpress-security"
+msgstr "Conçu spécifiquement pour WordPress, ce score est basé sur des recommandations clés pour une sécurité maximale pour WordPress."
+
+msgid "category_source_wordpress-security"
+msgstr "Le score de sécurité WordPress est calculé en fonction de mon propre algorithme personnalisé."
+
+msgid "audit_description_accessibility"
+msgstr "Accessibilité"
+
+msgid "audit_description_disabled-pingbacks-and-trackbacks"
+msgstr "Les pingbacks et les trackbacks sont désactivés pour au moins 1 article de blog"
+
+msgid "audit_description_disabled-rest-user-scan"
+msgstr "Les analyses non autorisées des utilisateurs sont bloquées"
+
+msgid "audit_description_external-links"
+msgstr "Les liens externes sont corrects"
+
+msgid "audit_description_has-ssl"
+msgstr "Il existe un certificat SSL"
+
+msgid "audit_description_internal-links"
+msgstr "Les liens internes sont corrects"
+
+msgid "audit_description_meta-description"
+msgstr "La méta description est correcte"
+
+msgid "audit_description_meta-facebook"
+msgstr "Tous les tags Facebook recommandés sont présents"
+
+msgid "audit_description_meta-twitter"
+msgstr "Tous les tags Twitter recommandés sont présents"
+
+msgid "audit_description_mobile-friendliness"
+msgstr "Adapté aux mobiles"
+
+msgid "audit_description_presence-contact-form"
+msgstr "Un formulaire de contact a été trouvé sur la page"
+
+msgid "audit_description_presence-google-analytics"
+msgstr "Google Analytics est installé"
+
+msgid "audit_description_robots-txt"
+msgstr "Robots.txt est présent"
+
+msgid "audit_description_sitemap-xml"
+msgstr "Sitemap.xml est présent"
+
+msgid "audit_description_speed"
+msgstr "Vitesse"
+
+msgid "audit_description_tag-h1"
+msgstr "La balise HTML H1 est correcte"
+
+msgid "audit_description_tag-title"
+msgstr "La balise HTML Titre est correcte"
+
+msgid "audit_description_tag-title-length"
+msgstr "La longueur du titre est correcte"
+
+msgid "audit_description_unauthorised-load-scripts"
+msgstr "L’accès non autorisé à load-scripts.php est bloqué"
+
+msgid "audit_description_unauthorised-load-styles"
+msgstr "L’accès non autorisé à load-styles.php est bloqué"
+
+msgid "audit_description_wp-login-404"
+msgstr "L’accès à wp-login.php renvoie une erreur 404"
